@@ -1,0 +1,5 @@
+{
+  "name": "FastFood Cost Calculator",
+  "description": "App para calcular costos de recetas para negocios de comida rápida con conversor de medidas.",
+  "requestFramePermissions": []
+}
